@@ -1,1 +1,69 @@
-
+<root>
+	<ID>
+		<item0>0016</item0>
+	</ID>
+	<Project>
+		<item0>Capital.com</item0>
+	</Project>
+	<Date>
+		<item0>12.02.2023</item0>
+	</Date>
+	<Submitted>
+		<item0/>
+	</Submitted>
+	<Last_Update>
+		<item0>13.02.2023</item0>
+	</Last_Update>
+	<Reporter>
+		<item0>@KeriKerest</item0>
+	</Reporter>
+	<Assigned_to>
+		<item0>Team lead</item0>
+	</Assigned_to>
+	<Priority>
+		<item0>Low</item0>
+	</Priority>
+	<Severity>
+		<item0>Minor</item0>
+	</Severity>
+	<Reproducibility>
+		<item0>Always</item0>
+	</Reproducibility>
+	<Status>
+		<item0>New</item0>
+	</Status>
+	<Resolution>
+		<item0>Open</item0>
+	</Resolution>
+	<Platform>
+		<item0>Google Chrome 109.0.5414.120</item0>
+	</Platform>
+	<OS>
+		<item0>Windows 10 Pro</item0>
+	</OS>
+	<OS_Version>
+		<item0>10.0.19044.2486</item0>
+	</OS_Version>
+	<Summary>
+		<item0>Improvement. The button to register with google account is not displayed on the registration form.</item0>
+	</Summary>
+	<Description>
+		<item0>When you click Add to favourite on the https page capital.com</item0>
+	</Description>
+	<Preconditions>
+		<item0>1. The page capital.com is opened</item0>
+	</Preconditions>
+	<Steps_to_reproduce>
+		<item0>1. Click on the button Add to favourite</item0>
+		<item1>2. Sign up form is opened</item1>
+	</Steps_to_reproduce>
+	<Actual_result>
+		<item0>The icon for google account is not shown on the button</item0>
+	</Actual_result>
+	<Expected_result>
+		<item0>The icon for google account should be displayed on the button</item0>
+	</Expected_result>
+	<Additional_Information>
+		<item0>Ad Blocker is blocking this icon</item0>
+	</Additional_Information>
+</root>
