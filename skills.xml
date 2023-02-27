@@ -1,0 +1,33 @@
+<root>
+  <skills>
+    <id>1</id>
+    <name>Manual Testing</name>
+    <description>Testing the software manually without using any automated tools.</description>
+  </skills>
+  <skills>
+    <id>2</id>
+    <name>Automation Testing</name>
+    <description>Testing the software using automated tools.</description>
+  </skills>
+  <skills>
+    <id>3</id>
+    <name>API Testing</name>
+    <description>Testing the application programming interfaces (APIs) used in the software.</description>
+  </skills>
+  <skills>
+    <id>4</id>
+    <name>Performance Testing</name>
+    <description>Testing the performance of the software under different conditions and loads.</description>
+  </skills>
+  <skills>
+    <id>5</id>
+    <name>Security Testing</name>
+    <description>Testing the security of the software against different types of attacks.</description>
+  </skills>
+  <skills>
+    <id>6</id>
+    <name>Mobile Testing</name>
+    <description>Testing the software on mobile devices such as smartphones and tablets.</description>
+  </skills>
+</root>
+
